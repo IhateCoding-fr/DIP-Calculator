@@ -1,4 +1,4 @@
-# DIP-Calculator
+# dip-Calculator
 acting cold para di halatang nanonood ng skibidi toilet
 
 ## Note ( YYYY/DD/MM )
@@ -10,4 +10,4 @@ acting cold para di halatang nanonood ng skibidi toilet
 3. Update README.md
 4. Commit change and push to repository
 
-### Anjing
+### n
