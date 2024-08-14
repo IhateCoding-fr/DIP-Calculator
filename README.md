@@ -11,7 +11,6 @@
 =======
    * If need, ```git config --global user.name "Username"```
    * If need, ```git config --global user.email "email.com"```
->>>>>>> 626a11fe74da0ccebb44dfdfeb3986de8898d3bb
 3. Update README.md
 4. Commit change and push to repository
 
