@@ -8,7 +8,6 @@
 <<<<<<< HEAD
     * If need, ```git config --global user.name "Username"```
     * If need, ```git config --global user.email "email.com"```
-=======
    * If need, ```git config --global user.name "Username"```
    * If need, ```git config --global user.email "email.com"```
 3. Update README.md
